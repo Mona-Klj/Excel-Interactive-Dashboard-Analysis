@@ -6,4 +6,4 @@ First cleaned the data by using filters, Drop dupplicates, Data Validation, Bini
 
 Next step, set up Pivot Tables and visualized data .
 
-Last Step, Created an Interactive Dashboard and used filters to see the charts through different Variables.
+Last Step, Created an Interactive Dashboard and used filters to see the charts through different Variables .
